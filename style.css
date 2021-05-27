@@ -136,7 +136,7 @@ transform: rotate(360deg);
       position: relative;
       padding-bottom: 50px;
       margin-left: 50%;
-      padding-top: 10px;
+      padding-top: 50px;
   }
   #Github{
 height:40px;
@@ -169,4 +169,13 @@ margin-right: 10px;
 #PythonPic{
     height: 150px;
     padding-bottom: 15;
+}
+#Form{
+padding-left: 10%;
+}
+fieldset{
+    color: black;
+}
+.ContactMe{
+    color: black;
 }
