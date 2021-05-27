@@ -1,0 +1,172 @@
+header{
+    text-align:justify;
+    /* background-image: url(https://www.hackprotection.net/wp-content/uploads/2019/05/header-home01-header.jpg); */
+}
+.jumbotron{
+    height: 20vh;
+    text-align: center;
+}
+.jumbotron-detail-apple-pie{
+    background-image: url('https://www.hackprotection.net/wp-content/uploads/2019/05/header-home01-header.jpg');
+
+}
+.col-md-4{
+    text-align: center;
+}
+ 
+img{
+width: 250px;
+height: 250px;
+border: cornflowerblue ;
+}
+.col-md-12{
+    text-align: center;
+
+}
+body{
+    background-image: url('https://media.giphy.com/media/11UhXwm8Ipd9C/giphy.gif');
+    /* https://thumbs.dreamstime.com/b/background-digits-screen-binary-code-zero-one-matrix-white-banner-pattern-wallpaper-abstract-computer-coding-hacker-142876846.jpg */
+        /* https://images.pexels.com/photos/2341290/pexels-photo-2341290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500); */
+}
+.WorkHistory {
+    text-align: center;
+    /* background-image: url('https://static.vecteezy.com/system/resources/previews/001/338/388/non_2x/white-background-design-free-vector.jpg'); */
+    font-size: larger;
+    border-radius: 50%;
+}
+.FamilarFrameworks{
+text-align: center;
+}
+
+.col{
+    border-radius: 50%;
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+}
+.img{
+border-radius: 15px;
+transition: transform .7s ease-in-out;
+
+}
+.rounded-fluid{
+    border-radius: 50%;
+    height: 500px;
+    width: 300px;
+}
+
+.img:hover{
+transform: rotate(360deg);
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .introduction{
+      background-color: white;
+      margin-top: 50px;
+      border-radius: 15px;
+      font-size: 30px;
+    }
+  .introduction :hover{
+      background-color: white;
+      color: white;
+  }
+  h1{
+      position: relative;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .Skills{
+      text-align: center;
+      background-image: url('https://media.giphy.com/media/ohONS2y8GTDoI/giphy.gif');
+      border-radius: 50%;
+      color: white;
+  }
+  #Skills{
+      text-align: center;
+  }
+  ul{
+      text-align: center;
+  }
+  .AboutMe{
+    background-color: white;
+    border-radius: 15px;
+    font-size: 30px;
+    margin-top: 50px;
+  }
+  .IntroPara{
+      font-size: 30px;
+      color: white;
+  }
+  .AboutMePara{
+
+      font-size: 30px;
+      color: white;
+  }
+  #Intro{
+    background-image: url('https://media.giphy.com/media/ohONS2y8GTDoI/giphy.gif');
+
+  }
+  h1{
+      color: white;
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+  }
+  #h3{
+      font-weight: 500;
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      color: white;
+  }
+  #AboutMe{
+    background-image: url('https://media.giphy.com/media/ohONS2y8GTDoI/giphy.gif');
+
+  }
+  .containerextraSpace{
+    border-radius: 50%;
+
+  }
+  .dropdown{
+      font-size: 20px;
+      /* background-image: url('https://static.vecteezy.com/system/resources/previews/001/338/388/non_2x/white-background-design-free-vector.jpg'); */
+      border-radius: 50%;
+      height: 70px;
+      width: 100px;
+      position: relative;
+      padding-bottom: 50px;
+      margin-left: 50%;
+      padding-top: 10px;
+  }
+  #Github{
+height:40px;
+width: 40px;
+margin-right: 10px;
+}
+#Gmail{
+    height: 40px;
+    width: 40px;
+
+}
+#Linkedin{
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+}
+.WorkHistoryTable{
+    text-align: center;
+}
+#Java{
+    background-image: url('https://media.giphy.com/media/ohONS2y8GTDoI/giphy.gif');
+    border-radius: 50%;
+    color: white;
+    height: 200px;
+    padding-top: 15%;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 20%;
+}
+#PythonPic{
+    height: 150px;
+    padding-bottom: 15;
+}
